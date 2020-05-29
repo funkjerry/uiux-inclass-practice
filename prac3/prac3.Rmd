@@ -1,0 +1,17 @@
+---
+title: "prac3"
+author: "Steven"
+output: 
+  html_document:
+    theme: null
+    highlight: null
+    mathjax: null
+    self_contained: false
+---
+
+```{r}
+```{r, echo=FALSE}
+htmltools::includeHTML("UIUX.html")
+```
+```
+
